@@ -15,3 +15,7 @@ __pycache__/
 # Fichiers temporaires Excel
 ~$*.xlsx
 tracker-projet-tarification.xlsx
+
+# Modèles sérialisés : régénérables par les notebooks
+models/*.pickle
+!models/.gitkeep
