@@ -6,3 +6,5 @@ matplotlib
 seaborn
 pyarrow
 jupyter
+lightgbm
+ipykernel<7
